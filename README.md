@@ -1,9 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name : R SANJANA
+Name : MURALI S
 
-Roll no : 212223240148
-
-Date of experiment : 13-08-2024
+REG NO : 212222230088
 
 
 
