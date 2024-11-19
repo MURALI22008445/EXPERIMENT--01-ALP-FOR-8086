@@ -7,7 +7,6 @@ REG NO : 212222230088
 
 
 
-
 ## Aim: 
 To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 
